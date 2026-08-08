@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
