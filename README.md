@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0136-single-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
 | ------- |
