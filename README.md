@@ -9,4 +9,8 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
