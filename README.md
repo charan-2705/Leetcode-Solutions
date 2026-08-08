@@ -130,6 +130,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,4 +225,8 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
