@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0507-perfect-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0042-trapping-rain-water](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Stack
 |  |
 | ------- |
@@ -234,10 +237,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -266,4 +271,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
