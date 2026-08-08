@@ -32,6 +32,7 @@
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0058-length-of-last-word](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 ## Recursion
 |  |
 | ------- |
