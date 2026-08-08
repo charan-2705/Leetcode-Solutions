@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 ## String
 |  |
 | ------- |
