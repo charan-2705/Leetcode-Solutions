@@ -63,6 +63,7 @@
 | [0342-power-of-four](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0344-reverse-string](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
