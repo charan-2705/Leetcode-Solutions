@@ -32,6 +32,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 ## Interactive
 |  |
 | ------- |
