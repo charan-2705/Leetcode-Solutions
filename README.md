@@ -13,6 +13,7 @@
 | [0035-search-insert-position](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0009-palindrome-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
