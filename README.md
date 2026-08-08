@@ -46,6 +46,7 @@
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
 ## Matrix
 |  |
 | ------- |
@@ -155,4 +157,8 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
