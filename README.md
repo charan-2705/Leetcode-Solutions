@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@
 | [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Sorting
 |  |
 | ------- |
@@ -195,8 +197,10 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
