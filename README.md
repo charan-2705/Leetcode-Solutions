@@ -55,6 +55,7 @@
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0191-number-of-1-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [0050-powx-n](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0342-power-of-four) |
 ## Newton's Method
 |  |
 | ------- |
