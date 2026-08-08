@@ -42,6 +42,7 @@
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
