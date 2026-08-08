@@ -17,12 +17,14 @@
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 ## Sorting
 |  |
 | ------- |
