@@ -30,6 +30,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0498-diagonal-traverse](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Interactive
 |  |
 | ------- |
