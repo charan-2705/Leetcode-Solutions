@@ -22,6 +22,7 @@
 | [0136-single-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +49,7 @@
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -96,6 +99,7 @@
 | [0190-reverse-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,6 +107,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -134,6 +139,7 @@
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
