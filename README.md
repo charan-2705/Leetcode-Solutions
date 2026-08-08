@@ -18,6 +18,7 @@
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
