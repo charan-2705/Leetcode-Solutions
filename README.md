@@ -21,6 +21,7 @@
 | [0078-subsets](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -137,6 +139,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Backtracking
 |  |
 | ------- |
