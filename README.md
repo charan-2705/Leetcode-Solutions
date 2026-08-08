@@ -77,6 +77,7 @@
 | [0242-valid-anagram](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0344-reverse-string](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -138,6 +140,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
