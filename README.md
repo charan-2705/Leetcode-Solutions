@@ -29,6 +29,7 @@
 | [0029-divide-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
