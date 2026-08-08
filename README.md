@@ -25,6 +25,7 @@
 | [0041-first-missing-positive](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
 | ------- |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
