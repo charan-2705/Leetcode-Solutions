@@ -64,6 +64,7 @@
 | [0367-valid-perfect-square](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
 ## Matrix
 |  |
 | ------- |
