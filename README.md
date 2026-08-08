@@ -16,6 +16,7 @@
 | [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
