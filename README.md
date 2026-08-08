@@ -24,12 +24,14 @@
 | [0007-reverse-integer](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
