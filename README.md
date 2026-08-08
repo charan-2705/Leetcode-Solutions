@@ -67,6 +67,7 @@
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0492-construct-the-rectangle) |
+| [0504-base-7](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0504-base-7) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0392-is-subsequence](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0504-base-7) |
 ## Trie
 |  |
 | ------- |
