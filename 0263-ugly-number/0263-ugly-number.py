@@ -8,7 +8,5 @@ class Solution:
             n//=3
         while n%5==0:
             n//=5
-        if n==1:
-            return True
-        return False
+        return n==1
         
