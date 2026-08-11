@@ -62,6 +62,7 @@
 | [0066-plus-one](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0268-missing-number) |
