@@ -34,6 +34,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Recursion
 |  |
 | ------- |
