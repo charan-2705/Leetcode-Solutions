@@ -86,6 +86,7 @@
 | [0507-perfect-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## String
 |  |
