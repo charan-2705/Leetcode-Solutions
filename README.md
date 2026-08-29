@@ -38,6 +38,7 @@
 | [0724-find-pivot-index](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@
 | [0728-self-dividing-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [3099-harshad-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3099-harshad-number) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
