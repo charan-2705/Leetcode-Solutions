@@ -89,6 +89,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [3099-harshad-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3099-harshad-number) |
 ## String
 |  |
 | ------- |
