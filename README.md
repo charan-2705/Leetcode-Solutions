@@ -40,6 +40,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/charan-2705/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [3099-harshad-number](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0412-fizz-buzz](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0498-diagonal-traverse](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -311,4 +314,8 @@
 | [0175-combine-two-tables](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/charan-2705/Leetcode-Solutions/tree/master/0182-duplicate-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/charan-2705/Leetcode-Solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
